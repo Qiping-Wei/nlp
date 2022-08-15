@@ -14,3 +14,5 @@ Neural Networks and Deep Learning is a free online book. The book will teach you
 |----|-----------------------------------------------------------------------------------------------------------------------------------|
 | -> | Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data |
 | -> | Deep learning, a powerful set of techniques for learning in neural networks                                                       |
+
+#### [Neural Networks and Learning Machines](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf)
